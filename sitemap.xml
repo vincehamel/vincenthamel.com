@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vincenthamel.com/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://vincenthamel.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://vincenthamel.com/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vincenthamel.com/"/>
+  </url>
+  <url>
+    <loc>https://vincenthamel.com/en</loc>
+    <lastmod>2026-10-20</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://vincenthamel.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://vincenthamel.com/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vincenthamel.com/"/>
+  </url>
+  <url>
+    <loc>https://vincenthamel.com/confidentialite</loc>
+    <lastmod>2026-10-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://vincenthamel.com/confidentialite"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://vincenthamel.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vincenthamel.com/confidentialite"/>
+  </url>
+  <url>
+    <loc>https://vincenthamel.com/privacy</loc>
+    <lastmod>2026-10-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://vincenthamel.com/confidentialite"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://vincenthamel.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vincenthamel.com/confidentialite"/>
+  </url>
+</urlset>
