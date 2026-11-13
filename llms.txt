@@ -21,6 +21,9 @@
 - **Transactions**: You are considering a transaction. Buying or selling a business: valuation, structure, negotiation and collaboration with the right experts through to signing.
 - **Cash and turnaround**: Your cash deserves more attention. I take charge of cash: regaining control when it gets tight, or optimizing a comfortable position, with a realistic plan and well-informed financial partners.
 
+## Simone (software)
+Simone is a bilingual (French/English) management software built by Vincent Hamel for service SMBs (agencies, studios, professional services, consultants). One system for time tracking, billing, expense reports (AI-read receipts), vendor payments, bank reconciliation, accounting and financial statements, client profitability using fully loaded hourly cost, approvals and controls, plus an AI assistant that never pays, never contacts clients without approval and never sees more than its user. Works alongside existing accounting software or as the full ledger. Demo: https://vincenthamel.com/simone-en
+
 ## What Vincent does not do
 Bookkeeping, tax returns and audit. He works alongside the company's accountants and advisors.
 
@@ -75,6 +78,9 @@ Yes. I automate recurring tasks, design custom tools and set up AI agents that h
 - **Transactions** : Vous pensez à faire une transaction. Achat ou vente d'entreprise : valorisation, structure, négociation et collaboration avec les bons experts jusqu'à la signature.
 - **Trésorerie et redressement** : Votre trésorerie mérite plus d'attention. Je prends en main la trésorerie : reprendre le contrôle quand elle se resserre, ou optimiser une situation confortable, avec un plan réaliste et des partenaires financiers bien informés.
 
+## Simone (logiciel)
+Simone est un logiciel de gestion bilingue conçu par Vincent Hamel pour les PME de services : heures, facturation, comptes de dépenses (reçus lus par l'IA), paiements fournisseurs, conciliation bancaire, comptabilité et états financiers, rentabilité par client au coût complet de l'heure, approbations et contrôles, et un adjoint IA qui ne paie jamais, n'écrit jamais à un client sans approbation et n'a jamais plus d'accès que son utilisateur. Fonctionne avec le logiciel comptable existant ou comme grand livre complet. Démo : https://vincenthamel.com/simone
+
 ## Ce que Vincent ne fait pas
 Tenue de livres, déclarations fiscales et audit. Il travaille avec les comptables et conseillers de l'entreprise.
 
@@ -100,6 +106,8 @@ Oui. J'automatise les tâches récurrentes, je conçois des outils sur mesure et
 ## Pages
 - [Accueil (français)](https://vincenthamel.com/)
 - [Home (English)](https://vincenthamel.com/en)
+- [Simone (français)](https://vincenthamel.com/simone)
+- [Simone (English)](https://vincenthamel.com/simone-en)
 - [Politique de confidentialité](https://vincenthamel.com/confidentialite)
 - [Privacy policy](https://vincenthamel.com/privacy)
 - [LinkedIn](https://www.linkedin.com/in/vhamel)
